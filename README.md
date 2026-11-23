@@ -1,4 +1,4 @@
-- 👋 Hi, I'm **Amir** (`@<your-github-username>`) — CS & Game Dev undergrad at **SIT–DigiPen**
+- 👋 Hi, I'm **Amir** (`@Amir4kmal`) — CS & Game Dev undergrad at **SIT–DigiPen**
 
 - 👀 I'm interested in:
   - **Game & Engine Programming** — C++, C#, Custom Engines, Unity
