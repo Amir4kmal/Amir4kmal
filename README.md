@@ -37,9 +37,11 @@ I'm a Game Programmer and Designer studying at **SIT–DigiPen**[cite: 16]. I en
 ![FMOD](https://img.shields.io/badge/FMOD_AUDIO-111111?style=for-the-badge&logo=audacity&logoColor=white)
 ![Dear ImGui](https://img.shields.io/badge/DEAR_IMGUI-2B5B84?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Engines & DCC Tools
+### Engine Tools
 ![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Custom C++ Engine](https://img.shields.io/badge/CUSTOM_C++_ENGINE-1F2937?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Digital Content Creation
 ![Blender](https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
