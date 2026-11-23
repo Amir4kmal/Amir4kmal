@@ -13,7 +13,6 @@ Building games, modular editor tools, and the pipelines that keep teams shipping
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-amir-akmal-75556a199/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdamirakmal2000@gmail.com)
-[![itch.io](https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://arukigames.itch.io/defiance)
 
 </div>
 
